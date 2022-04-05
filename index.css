@@ -1,0 +1,32 @@
+.header {
+    padding: 160px 0 160px 90px;
+}
+
+.header__title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 110px;
+    line-height: 110px;
+    letter-spacing: -0.04em;
+    color: #202002;
+    width: 380px;
+    margin-bottom: 90px;
+}
+
+.header__subtitle {
+    font-family: serif;
+}
+
+.link {
+
+}
+
+.logo {
+}
+
+.cards {
+}
+
+.card {
+}
