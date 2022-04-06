@@ -1,5 +1,8 @@
 .header {
     padding: 160px 0 160px 90px;
+    background-image: url(header-flag.png);
+    background-repeat: no-repeat;
+    background-position: center right;
 }
 
 .header__title {
@@ -11,11 +14,17 @@
     letter-spacing: -0.04em;
     color: #202002;
     width: 380px;
-    margin-bottom: 90px;
+    margin-bottom: 0 0 90px;
 }
 
 .header__subtitle {
-    font-family: serif;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-style: 19px;
+    line-height: 25;
+    letter-spacing: -0.04em;
+    color: #acacac;
 }
 
 .link {
@@ -23,6 +32,9 @@
 }
 
 .logo {
+    position: absolute;
+    left: 34px;
+    top: 34px;
 }
 
 .cards {
